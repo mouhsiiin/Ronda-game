@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/cards">
+        <file>cards/back_card.png</file>
+        <file>cards/bg.jpg</file>
+        <file>cards/bg4.jpg</file>
+        <file>cards/bgV2.jpg</file>
+        <file>cards/bgV3.jpg</file>
+        <file>cards/g1.png</file>
+        <file>cards/g2.png</file>
+        <file>cards/g3.png</file>
+        <file>cards/g4.png</file>
+        <file>cards/g5.png</file>
+        <file>cards/g6.png</file>
+        <file>cards/g7.png</file>
+        <file>cards/g10.png</file>
+        <file>cards/g11.png</file>
+        <file>cards/g12.png</file>
+        <file>cards/p1.png</file>
+        <file>cards/p2.png</file>
+        <file>cards/p3.png</file>
+        <file>cards/p4.png</file>
+        <file>cards/p5.png</file>
+        <file>cards/p6.png</file>
+        <file>cards/p7.png</file>
+        <file>cards/p10.png</file>
+        <file>cards/p11.png</file>
+        <file>cards/p12.png</file>
+        <file>cards/s1.png</file>
+        <file>cards/s2.png</file>
+        <file>cards/s3.png</file>
+        <file>cards/s4.png</file>
+        <file>cards/s5.png</file>
+        <file>cards/s6.png</file>
+        <file>cards/s7.png</file>
+        <file>cards/s10.png</file>
+        <file>cards/s11.png</file>
+        <file>cards/s12.png</file>
+        <file>cards/w1.png</file>
+        <file>cards/w2.png</file>
+        <file>cards/w3.png</file>
+        <file>cards/w4.png</file>
+        <file>cards/w5.png</file>
+        <file>cards/w6.png</file>
+        <file>cards/w7.png</file>
+        <file>cards/w10.png</file>
+        <file>cards/w11.png</file>
+        <file>cards/w12.png</file>
+        <file>cards/icon.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/adio"/>
+    <qresource prefix="/soundeffcts">
+        <file>audio/summer-walk-152722.mp3</file>
+        <file>audio/flipcard-91468 (mp3cut.net).mp3</file>
+        <file>audio/touch-and-sound-113676.mp3</file>
+    </qresource>
+</RCC>
